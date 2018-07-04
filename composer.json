@@ -1,0 +1,9 @@
+{
+    "name": "PHPUnitSpreadsheetDataProvider",
+    "require-dev": {
+        "phpunit/phpunit": "^7.2"
+    },
+    "scripts": {
+        "start test": ".\\vendor\\bin\\phpunit --bootstrap .\\vendor\\autoload.php .\\tests\\SummaryRangesTest.php"
+    }
+}
