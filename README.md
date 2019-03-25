@@ -11,7 +11,7 @@ longestLength('abcdeef'); // 5
 longestLength('jabjcdel'); // 7
 
 
-### h3 Here are located automated tests for TestCafe.
+### Here are located automated tests for TestCafe.
 
 Installing TestCafe
 --------------
