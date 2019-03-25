@@ -14,11 +14,13 @@ longestLength('jabjcdel'); // 7
 Here are located automated tests for TestCafe.
 --------------
 
-**Installing TestCafe**
+Installing TestCafe
+--------------
 
     npm install -g testcafe
 
-**Running the test**
+Running the test
+--------------
 
 For running the test in Google Chrome:
 
