@@ -19,7 +19,9 @@ Here are located automated tests for TestCafe.
     npm install -g testcafe
 
 **Running the test**
+
 For running the test in Google Chrome
+
     testcafe chrome .\login-page\
 
 
