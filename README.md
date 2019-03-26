@@ -6,6 +6,5 @@
 
 Пример:
 
-longestLength('abcdeef'); // 5
-
-longestLength('jabjcdel'); // 7
+    longestLength('abcdeef'); // 5
+    longestLength('jabjcdel'); // 7
